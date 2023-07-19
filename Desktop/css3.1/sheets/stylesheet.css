@@ -1,0 +1,120 @@
+body, html {
+    font-family: Verdana, Arial, Tahoma, Serif;
+    height:100%;
+    background-image:url("https://images.pexels.com/photos/3454270/pexels-photo-3454270.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Koppen */
+h1,h2,h3,h4,h5,h6 {
+    font-family: Verdana, Arial, Tahoma, Serif;
+    line-height: 1;
+}
+
+/* Header */
+#header {
+    background-color: #CD5C5C;
+}
+
+#hras{
+    background-color: #FF6347;
+    color: #D8BFD8;
+}
+
+#herkomst {
+    background-image:url("css3.1/puppy.png");
+    color: #4B00B2;
+}
+
+#leeftijd {
+    background-color: #FFC0CB;
+    color: #4B00B2;
+}
+
+#vacht {
+    background-color: #48D1CC;
+    color: #4B00B2;
+}
+
+#collie {
+    background-color: #228B22;
+    color: #D8BFD8;
+}
+
+#schot {
+    background-image:url("css3.1/puppy.png");
+    color: #4B00B2;
+}
+
+#leef {
+    background-color: #ffb6c1;
+    color: #4B00B2;
+}
+
+#dvacht {
+    background-color: #00ced1;
+    color: #4B00B2;
+}
+
+#border {
+    background-color: #556B2F;
+    color: #D8BFD8;
+}
+
+#land {
+    background-image:url("css3.1/puppy.png");
+    color: #4B00B2;
+}
+
+#tijd {
+    background-color: #FF69B4;
+    color: #4B00B2;
+}
+
+#zvacht {
+    background-color: #5F9EA0;
+    color: #4B00B2;
+}
+
+#weimaraner {
+    background-color: #008000;
+    color: #D8BFD8;
+}
+
+#lan {
+    background-image:url("css3.1/puppy.png");
+    color: #4B00B2;    
+}
+
+#leeftijd1 {
+    background-color: #DB7093;
+    color: #4B00B2;
+}
+
+#special {
+    background-color: #20B2AA;
+    color: #4B00B2;
+}
+
+#spaniel {
+    background-color: #006400;
+    color: #D8BFD8;
+}
+
+#land1 {
+    background-image:url("css3.1/puppy.png");
+    color: #4B00B2;
+}
+
+#leeftijd2 {
+    background-color: #FF1493;
+    color: #4B00B2;
+}
+
+#special1 {
+    background-color: #008B8B;
+    color: #4B00B2;
+}
